@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Spurious Skill in Hybrid Stock Forecasting: code and audit materials"
+authors:
+  - family-names: Istikhor
+    given-names: Anas
+    affiliation: "Taylor's University"
+  - family-names: Azman
+    given-names: Afizan
+    affiliation: "Taylor's University"
+  - family-names: Sangodiah
+    given-names: Anbuselvan
+    affiliation: "Taylor's University"
+license: MIT
