@@ -1,0 +1,14 @@
+{
+  "title": "Spurious Skill in Hybrid Stock Forecasting: code and audit materials",
+  "upload_type": "software",
+  "description": "Code, notebooks and literature-audit materials for the article \"Spurious Skill in Hybrid Stock Forecasting: A Fault-Injection Study with a Literature Audit\" (Istikhor, Azman and Sangodiah, Taylor's University). Includes the verified reference pipeline (ARFIMA, LSTM, XGBoost; Serial, Parallel and Stacking hybrids), the eight fault switches (F1-F8), Diebold-Mariano test families and Monte Carlo, the diagnostic checks C1-C7, and the audit coding rules and build scripts.",
+  "creators": [
+    {"name": "Istikhor, Anas", "affiliation": "Taylor's University"},
+    {"name": "Azman, Afizan", "affiliation": "Taylor's University"},
+    {"name": "Sangodiah, Anbuselvan", "affiliation": "Taylor's University"}
+  ],
+  "license": "MIT",
+  "keywords": ["forecasting", "hybrid models", "spurious skill", "fault injection", "Diebold-Mariano test", "ARFIMA", "LSTM", "XGBoost", "reproducibility"],
+  "version": "1.0.0",
+  "access_right": "open"
+}
