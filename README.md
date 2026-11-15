@@ -1,5 +1,7 @@
 # Spurious Skill in Hybrid Stock Forecasting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24260524.svg)](https://doi.org/10.5281/zenodo.24260524)
+
 Code and audit materials for the article "Spurious Skill in Hybrid Stock Forecasting: A Fault-Injection Study with a Literature Audit" (Istikhor, Azman and Sangodiah; School of Computer Science, Taylor's University, Malaysia).
 
 ## Contents

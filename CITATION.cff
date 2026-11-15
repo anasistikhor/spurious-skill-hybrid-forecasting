@@ -12,3 +12,6 @@ authors:
     given-names: Anbuselvan
     affiliation: "Taylor's University"
 license: MIT
+version: 1.0.0
+doi: 10.5281/zenodo.24260524
+repository-code: "https://github.com/anasistikhor/spurious-skill-hybrid-forecasting"
